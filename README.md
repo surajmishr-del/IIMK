@@ -9,3 +9,4 @@ Open `npt-intelligence-dashboard/index.html` in a modern browser. It does not re
 ## Note
 
 The dashboard uses synthetic workshop data and is not for operational decision-making.
+this line is for test
